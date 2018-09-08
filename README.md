@@ -1,3 +1,5 @@
 <h1>Tutorial SEO</h1>
-<p>SEO sigla em inglês para Search Engine Optimization, é o trabalho para melhorar o posicionamento
+<p>SEO sigla em inglês para Search Engine Optimization(otimização para motores de pesquisa), é o trabalho para melhorar o posicionamento
 de sites na tela de resultados gratuitos de sites de buscas como o Google e o Bing. </p>
+<p>Um pouco de história: o termo SEO foi registrado em 1997 no livro Net Results pelos designers Bob Heyman e Leland Harden que eram responsáveis pela comunicação de uma banda que costumava ficar em primeiro lugar na posição de busca quando pesquisava-se por "Jefferson Starship". Ao notar uma queda para o quarto lugar, os designers perceberam que o número de vezes que o termo "Jefferson Starship" aparecia havia diminuído. <br>
+Então retornaram com o uso dessa palavara-chave nas páginas e em seguida o <strong>site voltou para a primeira posição!</strong></p>
