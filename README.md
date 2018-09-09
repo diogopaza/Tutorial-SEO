@@ -5,7 +5,12 @@ de sites na tela de resultados gratuitos de sites de buscas como o Google e o Bi
 Então retornaram com o uso dessa palavara-chave nas páginas e em seguida o <strong>site voltou para a primeira posição!</strong></p>
 
 <h2>META TAGS</h2>
-<p>Meta Tag é um comando implementado no código de páginas web, dentro da área HEAD do site.As Metas Tags descrevem o conteúdo do site para os buscadores. Meta Tags são muito importantes para os buscadores, porém não são a única forma de SEO paa determinar as buscas, o GOOGLE por exemplo utiliza mais de 250 variáveis para determinar seus resultados de buscas. </p>
+<p>Meta Tag é um comando implementado no código de páginas web, dentro da área HEAD do site.As Metas Tags descrevem o conteúdo do site para os buscadores. Meta Tags são muito importantes para os buscadores, porém não são a única forma de SEO paa determinar as buscas, o GOOGLE por exemplo utiliza mais de 250 variáveis para determinar seus resultados de buscas. <br>
+	//Exemplo:
+
+	// <meta name="description" content="Free Web Tutorial"
+</p>
+<p>A Meta Tag Keyword já não é mais considerada pelos buscadores atuais.</p>
 
 <h2>TITLE TAG</h2>
 <p>O título dos resultados de busca ajuda-nos a rapidamente encontrar oque estamos procurando.
