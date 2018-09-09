@@ -19,3 +19,9 @@ Então retornaram com o uso dessa palavara-chave nas páginas e em seguida o <st
 <h2>META DESCRIPTION PARA SEO</h2>
 <p>O Meta Description é o texto geralmente utilizado pelo Google para a exibição dos resultados de busca, abaixo do pitulo. Esta tag é um "mini-resumo" da página, claro que o mecanismo de busca precisa entender que
 este "mini-resumo" faz sentido para o termo que o usuário está pesquisando.</p>
+<h2>TAGS H1,H2 H3 EM SEO</h2>
+<P>Devemos sempre usar apenas uma tag h1 por página, indicando ser o conteúdo de maior relevância na nossa página.<br>
+	<strong>Tags h2,h3....</strong>
+	<p>As demais Heading Tags são geralmente utilizadas como sub-títulos de uma página. Em SEO são um excelente recurso para incluir palavras chaves complementares, ou seja palavras que não terão uma página exclusiva para elas.</p>
+	<p>As Heading Tags passam um sentido de semântica, ou seja uma linguagem de significado, não há relação com efeitos visuais, esses devem ser tratado com estilos(css)</p>
+</P>
