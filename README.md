@@ -24,4 +24,10 @@ este "mini-resumo" faz sentido para o termo que o usuário está pesquisando.</p
 	<strong>Tags h2,h3....</strong>
 	<p>As demais Heading Tags são geralmente utilizadas como sub-títulos de uma página. Em SEO são um excelente recurso para incluir palavras chaves complementares, ou seja palavras que não terão uma página exclusiva para elas.</p>
 	<p>As Heading Tags passam um sentido de semântica, ou seja uma linguagem de significado, não há relação com efeitos visuais, esses devem ser tratado com estilos(css)</p>
-</P>
+</p>
+<h2>Como Redigir Textos para SEO</h2>
+<p>O google interpreta textos e ainda não consegue interpretar imagens. </p>
+<h2>Canonicidade</h2>
+<p>Indicar ao Google ou qualquer outro buscador que muitas das suas páginas possuem conteúdo idêntico e refenreciar a página de origem é chamado de canonicidade</p>
+<h6>Exemplo de uso da tag Canonica</h6>
+<p> <link rel='canonical' href='www.uppesquisas.com.br' /></p>
